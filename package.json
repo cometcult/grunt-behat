@@ -1,7 +1,7 @@
 {
   "name": "grunt-behat",
   "description": "A grunt task to run behat BDD tests [cometcult fork].",
-  "version": "0.2.0",
+  "version": "0.1.0-cometcult",
   "homepage": "https://github.com/mintbridge/grunt-behat",
   "author": {
     "name": "Paul Dixon",
